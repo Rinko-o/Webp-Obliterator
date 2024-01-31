@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-**Webp obliterator is a program developed for the sole purpose of cleansing your downloads folder (or any folder you direct it to) of those nasty ass webp files, and makes them a cool png file. This program is made by a stupid ass programmer who doesn't know what he's doing yet, but has chatgpt to help him.**
+**Webp obliterator is a program developed for the sole purpose of cleansing your downloads folder (or any folder you direct it to) of those nasty ass webp files, and makes them a cool png file. This program is made by a silly ass programmer who doesn't know what he's doing yet, but has chatgpt to help him.**
 
 ## Dependencies
 
