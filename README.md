@@ -29,3 +29,7 @@
 **everything** is subject to change, please report bugs if any come up. 
 
 Thanks lol -Rinko-o
+
+(2/12/24) - btw it looks like a virus lmao, woopsie poopsie. Thank you fucking pyisntaller. 
+            trust me its not
+
